@@ -16,7 +16,7 @@ def count_batteries_by_health(present_capacities):
     else:
       counts["failed"]+=1
 
-   return counts
+  return counts
     
 
  
